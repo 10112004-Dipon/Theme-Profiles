@@ -1612,7 +1612,7 @@
       
       ],
       "color": "brown",
-      "avatar": "https://ibb.co/ySKV9Cx",
+      "avatar": "https://th.bing.com/th/id/OIP.Bc7yLMhQGMuyCosYbWPBxQHaEQ?rs=1&pid=ImgDetMain",
       "banner": "https://i.etsystatic.com/25639369/r/il/dc5141/2684598600/il_fullxfull.2684598600_453y.jpg",
       "bio": "Passionate about building models for prediction and analysis.",
       "title": "ML Engineer",
@@ -1642,11 +1642,6 @@
           "name": "Automodeler",
           "link": "https://ai-ml-model.streamlit.app/",
           "description": "A model for prediction and analysis"
-        },
-        {
-          "name": "Payment-Fraud-Detection",
-          "link": "r/C:\Users\Dipon Mitra\OneDrive\Desktop\.ipynb_checkpoints\Payment_fraud_detection-checkpoint.ipynb",
-          "description": "A model for prediction of payment fraud"
         }
       ],
       "education": [
@@ -1670,25 +1665,7 @@
         }
       ],
       "posts": [
-        {
-          "title": "",
-          "description": "",
-          "image": "",
-          "url": "",
-          "type": ""
-        },
-        {
-          "title": "",
-          "description": "",
-          "image": "",
-          "type": ""
-        },
-        {
-          "title": "",
-          "description": "",
-          "image": "",
-          "type": ""
-        }
+        
       ]
     },
     {
