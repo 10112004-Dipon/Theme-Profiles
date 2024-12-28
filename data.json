@@ -299,104 +299,83 @@
     },
     {
       "name": "Snehasis Ghosh",
-      "typingTexts": [""],
+      "typingTexts": [
+        "B.Tech CSE '28",
+        "Coding Enthusiast",
+        "Python",
+        "C++",
+        "MySQL"
+      ],
       "color": "base",
-      "avatar": "",
-      "banner": "",
-      "bio": "",
-      "title": "",
-      "description": "",
+      "avatar": "images/snehasisghosh/AVATAR.jpg",
+      "banner": "images/snehasisghosh/banner.jpg",
+      "bio": "Coding enthusiast",
+      "title": "Beginner",
+      "description": "Passionate About Coding",
       "socialLinks": {
-        "linkedin": "",
-        "twitter": "",
-        "github": "",
-        "hashnode": "",
-        "instagram": "",
-        "facebook": ""
+        "linkedin": "https://www.linkedin.com/in/snehasis-ghosh-202321335/",
+        "twitter": "https://x.com/Snehasis5170",
+        "github": "https://github.com/SnehasisGh0sh",
+        "hashnode": "https://hashnode.com/@Snehasis",
+        "instagram": "https://www.instagram.com/snehasis5170",
+        "facebook": "https://www.facebook.com/profile.php?id=100011390386048"
       },
 
-      "top-skills": [],
+      "top-skills": ["Html", "Python", "C++", "MySQL", "CSS"],
       "skills": [
         {
-          "title": "",
-          "techStack": []
+          "title": "Frontend",
+          "techStack": ["HTML", "CSS", "JavaScript"]
         },
         {
-          "title": "",
-          "techStack": []
+          "title": "Databases",
+          "techStack": ["MySQL"]
         },
         {
-          "title": "",
-          "techStack": []
+          "title": "Languages",
+          "techStack": ["Python", "C++", "C"]
         },
         {
-          "title": "",
-          "techStack": []
-        },
-        {
-          "title": "",
-          "techStack": []
+          "title": "Tools",
+          "techStack": ["Git", "GitHub", "VS Code"]
         }
       ],
-      "projects": [
-        {
-          "name": "",
-          "link": "",
-          "description": ""
-        },
-        {
-          "name": "",
-          "link": "",
-          "description": ""
-        }
-      ],
+      "projects": [],
       "education": [
         {
-          "year": "",
-          "details": ""
+          "year": "2022",
+          "details": "Class X - 91%(CBSE)(Ramakrishna Mission Vidyapith, Deoghar)"
         },
         {
-          "year": "",
-          "details": ""
+          "year": "2024",
+          "details": "Class XII - 94.2%(CBSE)(Ramakrishna Mission Vidyapith, Deoghar)"
         },
         {
-          "year": "",
-          "details": ""
+          "year": "2028",
+          "details": "B.Tech in Information Technology-- 1st Year (Maulana Abul Kalam Azad University of Technology)"
         }
       ],
       "interests": [
         {
-          "title": "",
-          "description": ""
+          "title": "Artificial Intelligence",
+          "description": "Exploring the impact of AI on different platforms of tech"
         },
         {
-          "title": "",
-          "description": ""
+          "title": "Competitive Programming",
+          "description": "Participating in coding competitions and challenges"
         },
         {
-          "title": "",
-          "description": ""
+          "title": "Open Source",
+          "description": "Contributing to open-source projects and communities."
         }
       ],
       "posts": [
         {
-          "title": "",
-          "description": "",
-          "image": "",
-          "url": "",
-          "type": ""
-        },
-        {
-          "title": "",
-          "description": "",
-          "image": "",
-          "type": ""
-        },
-        {
-          "title": "",
-          "description": "",
-          "image": "",
-          "type": ""
+          "title": "Attended Async Devs Session",
+          "description": "Attended a session organised by the Async Devs community on the importance of Social Media",
+          "image": "https://pbs.twimg.com/media/GdiLO1vXMAA1b-9?format=jpg&name=small",
+          "url": "https://x.com/Snehasis5170/status/1862391667128721686",
+          "type": "Twitter"
         }
       ]
     },
@@ -505,7 +484,13 @@
     },
     {
       "name": "Debopam Sarkar",
-      "typingTexts": ["B.Tech(CSE)'28", "Coding", "Tech Explorer", "Aspiring Developer", "DSA"],
+      "typingTexts": [
+        "B.Tech(CSE)'28",
+        "Coding",
+        "Tech Explorer",
+        "Aspiring Developer",
+        "DSA"
+      ],
       "color": "blue",
       "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQFPYZE2Umj9nw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1727443848105?e=1740614400&v=beta&t=IptHuYsfG55gP-hIIgXXduYF7EBFgr7gA7YQhrJQlM4",
       "banner": "https://media.licdn.com/dms/image/v2/D4E16AQE0LyyGwCeFEQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730102918391?e=1740614400&v=beta&t=frZPnpMho5HUbySGqkzjCOE_OMqSL4Pa9g0Aut90fhs",
@@ -525,7 +510,16 @@
       "skills": [
         {
           "title": "TECH",
-          "techStack": ["Open-Source Development", "C", "C++","Java", "Python", "Git", "GitHub", "VS Code"]
+          "techStack": [
+            "Open-Source Development",
+            "C",
+            "C++",
+            "Java",
+            "Python",
+            "Git",
+            "GitHub",
+            "VS Code"
+          ]
         }
       ],
       "projects": [
@@ -615,19 +609,19 @@
         "dev": "https://dev.to/sheetal_bajaj"
       },
 
-      "top-skills": ["C++","Python","HTML"],
+      "top-skills": ["C++", "Python", "HTML"],
       "skills": [
         {
           "title": "Web Development",
-          "techStack": ["HTML","CSS"]
+          "techStack": ["HTML", "CSS"]
         },
         {
           "title": "Languages",
-          "techStack": ["C","C++","Python"]
+          "techStack": ["C", "C++", "Python"]
         },
         {
           "title": "Tools",
-          "techStack": ["Git","GitHub","VS Code"]
+          "techStack": ["Git", "GitHub", "VS Code"]
         },
         {
           "title": "Data Structure and Analysis(DSA)",
@@ -681,14 +675,14 @@
           "title": "My First Hackathon Experience",
           "description": "Published blog throwing light on the experience on my first participated hackathon",
           "image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg82xqljiuw8tvkc30rub.jpg",
-          "url":"https://sheetal-bajaj.hashnode.dev/my-first-hackathon-experience",
+          "url": "https://sheetal-bajaj.hashnode.dev/my-first-hackathon-experience",
           "type": "blog"
         },
         {
           "title": "Best freshers team in first participated hackathon",
           "description": "Thrilled to share that our team-TRiCoders resulted as the 'Best Freshers Team' (jointly) at my very first hackathon",
           "image": "https://media.licdn.com/dms/image/v2/D4E22AQGvojKOCcEdoQ/feedshare-shrink_800/feedshare-shrink_800/0/1732028810858?e=1738195200&v=beta&t=h0-DBaW7FZGGtvEPe1q7nF-nxxjhe77fOcTi5qbRFOg",
-          "url":"https://www.linkedin.com/posts/sheetal-bajaj-s06091009_tricoders-bestfreshersteam-hackathon-activity-7264655385108615168-sKVv?utm_source=share&utm_medium=member_desktop",
+          "url": "https://www.linkedin.com/posts/sheetal-bajaj-s06091009_tricoders-bestfreshersteam-hackathon-activity-7264655385108615168-sKVv?utm_source=share&utm_medium=member_desktop",
           "type": "linkedin"
         }
       ]
@@ -923,25 +917,15 @@
         "instagram": "https://www.instagram.com/pro_lay04/"
       },
 
-      "top-skills": [
-        "C",
-        "C++"
-      ],
+      "top-skills": ["C", "C++"],
       "skills": [
         {
           "title": "Languages",
-          "techStack": [
-            "C",
-            "C++"
-          ]
+          "techStack": ["C", "C++"]
         },
         {
           "title": "Tools",
-          "techStack": [
-            "Git",
-            "GitHub",
-            "VS Code"
-          ]
+          "techStack": ["Git", "GitHub", "VS Code"]
         }
       ],
       "projects": [
@@ -979,7 +963,7 @@
           "title": "Basics of Git & GitHub",
           "description": "Participated in informative Git & GitHub sessions. Thanks to Async Devs Community.",
           "image": "https://media.licdn.com/dms/image/v2/D5622AQFhGwFd2U7gpA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1730050299484?e=1738195200&v=beta&t=tJWpvB_pYJLXL2YxgIxBTANYKX4fmGnQKTSE78I1xFs",
-          "url":"https://www.linkedin.com/posts/prolayjit-biswas_linkedinconnections-activity-7256356901725089793-iOhK?utm_source=share&utm_medium=member_desktop",
+          "url": "https://www.linkedin.com/posts/prolayjit-biswas_linkedinconnections-activity-7256356901725089793-iOhK?utm_source=share&utm_medium=member_desktop",
           "type": "linkedin"
         }
       ]
@@ -1609,7 +1593,6 @@
         "Front-end Web Developer",
         "Development with Python",
         "ML Engineer"
-      
       ],
       "color": "brown",
       "avatar": "https://th.bing.com/th/id/OIP.Bc7yLMhQGMuyCosYbWPBxQHaEQ?rs=1&pid=ImgDetMain",
@@ -1626,7 +1609,7 @@
         "facebook": "https://www.facebook.com/manju.mitra.9216/"
       },
 
-      "top-skills": [ "HTML", "CSS", "PYTHON"],
+      "top-skills": ["HTML", "CSS", "PYTHON"],
       "skills": [
         {
           "title": "ML Engineer",
@@ -1634,7 +1617,7 @@
         },
         {
           "title": "Frontend Development",
-          "techStack": ["HTML","CSS"]
+          "techStack": ["HTML", "CSS"]
         }
       ],
       "projects": [
